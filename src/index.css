@@ -1,0 +1,49 @@
+body {
+  background-image: linear-gradient(90deg, #617bcd, #c5899d);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+h2, h3, h4, h5 {
+  font-size: 1vw;
+  display: inline-block;
+  position: absolute;
+  text-transform: uppercase;
+  margin-block-start: unset;
+  margin-block-end: unset;
+  top: 11vw;
+  color: #555555;
+  font-family: Roboto;
+  font-weight: 300;
+  padding-left: 2.8vw;
+}
+
+h6 {
+  font-size: 3vw;
+  color: #555555;
+  display: inline-block;
+  position: relative;
+  bottom: 1.8vw;
+  padding: 0 2vw 0 2vw;
+
+}
+.time {
+  font-size: 8vw;
+  font-family: Roboto;
+  font-weight: 300;
+  text-align: center;
+  color: white;
+  background: #080808;
+  width: 60vw;
+  height: 16vw;
+  border-radius: 0.5vw;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -8vw;
+  margin-left: -30vw;
+}
+
+
